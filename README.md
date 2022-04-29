@@ -1,4 +1,4 @@
-# FAMI
+# $FAMI GITHUB
 FamiChain Token based on BEP20.
 
 FamiChain is a Databaseless statistical platform under Blockchain technology. We only scan data from more than 200 partners's servers globally to display information instead of pulling data directly from our servers, which will help you to limit information disclosure.
